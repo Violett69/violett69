@@ -2,7 +2,8 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcp.anique.jp%2Fen%2Fcp%2Flain01%2F&psig=AOvVaw1drOX6uqn_AoEAOtlKy3hc&ust=1763652077867000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIDrtZPC_pADFQAAAAAdAAAAABAj" />
+  <img src="https://github.com/Violett69/<violett>/blob/main/banner.png
+" />
 " alt="Banner" width="100%" />
 </p>
 
