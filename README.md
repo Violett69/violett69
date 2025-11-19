@@ -2,9 +2,7 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/Violett69/<violett>/blob/main/banner.png
-" />
-" alt="Banner" width="100%" />
+  <img src="https://github.com/Violett69/<violett>/blob/main/banner.png" />" alt="Banner" width="100%" />
 </p>
 
 ## 📊 GitHub Stats
