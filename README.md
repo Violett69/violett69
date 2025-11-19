@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hey! I'm Violett69
 
-<!--
-**Violett69/violett69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 GitHub Stats
 
-Here are some ideas to get you started:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Violett69&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Violett69&layout=compact&theme=radical)
+
+---
+
+## 🧠 About Me
+Hi! I'm a developer who loves learning new technologies, building cool projects, and improving my skills step by step.
+
+---
+
+## 🛠️ Languages & Technologies I Use
+- 🐍 **Python**  
+- ⚡ **JavaScript (JS)**  
+- 🟦 **TypeScript (TS)**  
+- 📄 **Batch (BAT)**  
+- ☕ **Java**  
+- 🦀 **Rust**
+
+---
+
+## 🚀 What I'm Working On
+- Expanding my skills across multiple languages  
+- Building personal projects  
+- Learning deeper backend + system-level programming  
+
+---
+
+## 🌐 Contact
+*(Feel free to add your socials here — Discord, Website, GitHub Pages, etc.)*
+
