@@ -1,20 +1,22 @@
 # 👋 Hey! I'm Violett69
 
+<!-- Banner -->
+<p align="center">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.crunchyroll.com%2Fde%2Fseries%2FG649DWXJY%2Fserial-experiments-lain%3Fsrsltid%3DAfmBOorpAZouyoHm-nsBJRchbjxTkMcm0mEp_P42x-A6KvHvY2jJWCgb&psig=AOvVaw1drOX6uqn_AoEAOtlKy3hc&ust=1763652077867000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIDrtZPC_pADFQAAAAAdAAAAABAE" alt="Banner" width="100%" />
+</p>
+
 ## 📊 GitHub Stats
 
-
-GizHub Banner
-
-GitHub Stats Top Languages
+Hier ist ein Überblick über meine GitHub-Aktivität:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Violett69&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Violett69&layout=compact&theme=radical)
 
 ---
 
 ## 🧠 About Me
-Hi! I'm a developer who loves learning new technologies, building cool projects, and improving my skills step by step.
+Hi! I'm a developer who loves learning new technologies, building cool projects, and improving my skills step by step.  
+Currently exploring Python automation, Java projects, and beginner Rust systems programming.
 
 ---
 
@@ -32,10 +34,12 @@ Hi! I'm a developer who loves learning new technologies, building cool projects,
 
 ## 🚀 What I'm Working On
 - Expanding my skills across multiple languages  
-- Building personal projects  
-- Learning deeper backend + system-level programming  
+- Building personal projects in Python, Java, and JavaScript  
+- Experimenting with backend & system-level programming  
 
----
+> ⚡ **Live Progress / Status:**  
+> _Hier kannst du später dein Script einbinden, das z. B. deinen Fortschritt in JS/ND verfolgt._
 
-## 🌐 Contact
-*(0x4x)*
+```markdown
+![Progress](https://your-server.com/progress.svg)
+
