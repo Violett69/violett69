@@ -14,12 +14,14 @@ Hi! I'm a developer who loves learning new technologies, building cool projects,
 ---
 
 ## 🛠️ Languages & Technologies I Use
-- 🐍 **Python**  
-- ⚡ **JavaScript (JS)**  
-- 🟦 **TypeScript (TS)**  
-- 📄 **Batch (BAT)**  
-- ☕ **Java**  
-- 🦀 **Rust**
+
+### 🎯 Skill Percentage (Self-Estimated)
+![Python](https://img.shields.io/badge/Python-40%25-blue?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-25%25-yellow?style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-15%25-3178C6?style=for-the-badge)
+![Batch](https://img.shields.io/badge/Batch-10%25-lightgrey?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-7%25-red?style=for-the-badge)
+![Rust](https://img.shields.io/badge/Rust-3%25-brown?style=for-the-badge)
 
 ---
 
@@ -31,5 +33,4 @@ Hi! I'm a developer who loves learning new technologies, building cool projects,
 ---
 
 ## 🌐 Contact
-*(Feel free to add your socials here — Discord, Website, GitHub Pages, etc.)*
-
+*(0x4x)*
