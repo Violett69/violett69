@@ -2,7 +2,7 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/Violett69/<violett>/blob/main/banner.png" />" alt="Banner" width="100%" />
+  <img src="https://your-banner-url.com/banner.png" alt="Banner" width="100%" />
 </p>
 
 ## 📊 GitHub Stats
@@ -36,10 +36,3 @@ Currently exploring Python automation, Java projects, and beginner Rust systems 
 - Expanding my skills across multiple languages  
 - Building personal projects in Python, Java, and JavaScript  
 - Experimenting with backend & system-level programming  
-
-> ⚡ **Live Progress / Status:**  
-> _Hier kannst du später dein Script einbinden, das z. B. deinen Fortschritt in JS/ND verfolgt._
-
-```markdown
-![Progress](https://your-server.com/progress.svg)
-
