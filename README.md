@@ -2,7 +2,8 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.crunchyroll.com%2Fde%2Fseries%2FG649DWXJY%2Fserial-experiments-lain%3Fsrsltid%3DAfmBOorpAZouyoHm-nsBJRchbjxTkMcm0mEp_P42x-A6KvHvY2jJWCgb&psig=AOvVaw1drOX6uqn_AoEAOtlKy3hc&ust=1763652077867000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIDrtZPC_pADFQAAAAAdAAAAABAE" alt="Banner" width="100%" />
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcp.anique.jp%2Fen%2Fcp%2Flain01%2F&psig=AOvVaw1drOX6uqn_AoEAOtlKy3hc&ust=1763652077867000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIDrtZPC_pADFQAAAAAdAAAAABAj" />
+" alt="Banner" width="100%" />
 </p>
 
 ## 📊 GitHub Stats
