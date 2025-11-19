@@ -2,6 +2,11 @@
 
 ## 📊 GitHub Stats
 
+
+GizHub Banner
+
+GitHub Stats Top Languages
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Violett69&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Violett69&layout=compact&theme=radical)
