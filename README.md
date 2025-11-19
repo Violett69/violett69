@@ -1,9 +1,4 @@
-# 👋 Hey! I'm Violett69
-
-<!-- Banner -->
-<p align="center">
-  <img src="https://github.com/Violett69/Violett69/blob/main/banner.png" alt="Banner" width="100%" />
-</p>
+# Hey! I'm Violett69
 
 ## 📊 GitHub Stats
 
@@ -14,7 +9,7 @@ Hier ist ein Überblick über meine GitHub-Aktivität:
 
 ---
 
-## 🧠 About Me
+## About Me
 Hi! I'm a developer who loves learning new technologies, building cool projects, and improving my skills step by step.  
 Currently exploring Python automation, Java projects, and beginner Rust systems programming.
 
@@ -22,7 +17,7 @@ Currently exploring Python automation, Java projects, and beginner Rust systems 
 
 ## 🛠️ Languages & Technologies I Use
 
-### 🎯 Skill Percentage (Self-Estimated)
+### Skill Percentage (Self-Estimated)
 ![Python](https://img.shields.io/badge/Python-100%25-blue?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-90%25-yellow?style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-45%25-3178C6?style=for-the-badge)
@@ -32,7 +27,7 @@ Currently exploring Python automation, Java projects, and beginner Rust systems 
 
 ---
 
-## 🚀 What I'm Working On
+## What I'm Working On
 - Expanding my skills across multiple languages  
 - Building personal projects in Python, Java, and JavaScript  
 - Experimenting with backend & system-level programming  
